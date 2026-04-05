@@ -147,3 +147,6 @@ changelog/fragments/
 .tmp/
 test/fixtures/openclaw-vitest-unit-report.json
 analysis/
+openclaw_env/
+.env
+__pycache__/
